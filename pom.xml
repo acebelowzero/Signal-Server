@@ -29,6 +29,8 @@
   </modules>
 
   <properties>
+    <sonar.organization>acebelowzero</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <aws.sdk.version>1.11.939</aws.sdk.version>
     <aws.sdk2.version>2.16.66</aws.sdk2.version>
     <commons-codec.version>1.15</commons-codec.version>
